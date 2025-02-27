@@ -18,8 +18,6 @@
 
 ###
 
-<h4 align="left">🚀  Frontend Developer | Learning JavaScript, React & TailwindCSS<br><br>💡 Passionate about crafting interactive web experiences and diving deep into modern frontend technologies.<br><br>📚 Currently mastering JavaScript, React, and Next.js—building projects along the way.</h4>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
