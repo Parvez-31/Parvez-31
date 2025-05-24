@@ -4,7 +4,7 @@ I'm a self-taught Frontend-Focused JavaScript Developer with a passion for craft
 
 🚀 What makes me unique?
 
-🧑‍💻 Frontend Enthusiast: I specialize in building dynamic, responsive, and accessible user interfaces.
+🧑‍💻 <strong>Frontend Enthusiast:</strong> I specialize in building dynamic, responsive, and accessible user interfaces.
 
 🌐 Full-Stack Explorer: While my heart is in frontend, I’ve dived into backend technologies to deliver end-to-end solutions.
 
