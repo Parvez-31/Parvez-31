@@ -10,3 +10,5 @@ I'm a **frontend-focused developer** passionate about building **interactive, ac
 > Fun fact: `undefined` can be defined in JavaScript 😉
 
 Let’s connect and build something great!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez-31&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
