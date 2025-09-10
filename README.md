@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Parvez Hossien Tarafder – JavaScript Developer
+# 👋 Hi, I’m Parvez Hossien Tarafder – JavaScript Developer 🎉
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h2N2tqMGVhMzJ4YnA5bGx6OWhsNmt4OHB6NDVtM3Vybm04enZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300" height="300" />
