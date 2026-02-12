@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Parvez Hossien Tarafder – JavaScript Developer 🎉
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h2N2tqMGVhMzJ4YnA5bGx6OWhsNmt4OHB6NDVtM3Vybm04enZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300" height="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RkaHBvcmkydTM1ODM3YThuY2dhYmhteDRkaHRjaXYwc2hsM3FqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300" height="300" />
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 </div>
 
 I'm a **frontend-focused developer** passionate about building **interactive, accessible, and responsive web apps**.
