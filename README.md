@@ -17,8 +17,8 @@ I'm a **frontend-focused developer** passionate about building **interactive, ac
 Let’s connect and build something great!
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua,html,css,bootstrap,tailwind,react,next,graphql,prisma,nodejs,express,mongodb,postgres,redis,git,linux,docker,postman,bash,vscode,neovim" />
   </a>
 </p>
