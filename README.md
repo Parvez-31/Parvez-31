@@ -12,7 +12,8 @@ I'm a **frontend-focused developer** passionate about building **interactive, ac
 - 📚 Eager to keep learning — curious about **Golang** and **Rust** in the future  
 - 🤝 Open to collaboration, contributions & cool ideas
 
-> Fun fact: `undefined` can be defined in JavaScript 😉
+>“Make it work. Make it right. Make it fast.”
+— Kent Beck
 
 Let’s connect and build something great!
 
