@@ -20,6 +20,6 @@ Let’s connect and build something great!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,lua,html,css,tailwind,react,zustand,tanstack,next,vercel,authjs,graphql,prisma,drizzle,nodejs,express,mongodb,postgres,redis,git,linux,docker,postman,bash,tmux,vscode,vim,neovim" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,go,html,css,tailwind,react,zustand,tanstack,next,vercel,authjs,graphql,prisma,drizzle,nodejs,express,mongodb,postgres,redis,git,linux,docker,postman,bash,tmux,vscode,vim,neovim,obsidian" />
   </a>
 </p>
