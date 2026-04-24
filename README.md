@@ -16,10 +16,3 @@ I'm a **frontend-focused developer** passionate about building **interactive, ac
 — Kent Beck
 
 Let’s connect and build something great!
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,go,html,css,nodejs,mongodb,postgres,git,linux,postman,bash,tmux,vscode,neovim," />
-  </a>
-</p>
