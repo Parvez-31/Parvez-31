@@ -15,4 +15,10 @@ I'm a **frontend-focused developer** passionate about building **interactive, ac
 >“Make it work. Make it right. Make it fast.”
 — Kent Beck
 
+### 🛠️ Tech Stack & Tools  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,docker,git,github,vscode,neovim" />
+</p>  
+
 Let’s connect and build something great!
